@@ -1,0 +1,9 @@
+ctrl+shift+p
+
+dev container
+
+terraform tflint
+
+aws cli
+
+rebuild
